@@ -1,2 +1,4 @@
 # crypto-telegram-bot
-Telegram bot to check crypto currencies information
+
+ Telegram bot for cryptocurrency prices and information.
+ Getting information from CoinMarketCap. Written in Go.
